@@ -1,6 +1,6 @@
 <?php
 
-namespace dmstr\bootstrap;
+namespace akavov\bootstrap;
 
 use yii\web\View;
 
